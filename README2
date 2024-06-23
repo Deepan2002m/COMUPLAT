@@ -1,0 +1,15 @@
+Open the code in editor
+for backend
+install node
+in the terminal go for backend directory by the command cd backend
+install npm by command npm install
+initiate node project by command npm init -y 
+download all dependancies by command npm install express passport passport-google-oauth20 postmark dotenv cors cookie-session
+create .env file with your client id,secret key ,postmark API
+then run backend by command npm start 
+for frontend
+in the terminal go for frontend directory by the command cd frontend
+install npm by command npm install
+create react app by command npx create-react-app .
+install dependancies npm install axios react-router-dom
+then run by command np install
